@@ -106,4 +106,4 @@ Aspiring Java Full-Stack Developer
 
 ---
 
-⭐ *If you find this project useful, consider starring the repository!*
+⭐ *If you find this project useful, consider sharing the repository!*
